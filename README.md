@@ -11,3 +11,4 @@
 ### Dependency
 
 - [qtarget](https://github.com/overextended/qtarget)
+- [ox_lib](https://github.com/overextended/ox_lib) (notifications)
